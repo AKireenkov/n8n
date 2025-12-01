@@ -34,3 +34,4 @@ USER node
 ENTRYPOINT ["tini", "--"]
 CMD ["n8n", "start"]
 
+
